@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 120" role="img" aria-labelledby="title desc">
+  <title id="title">Kamalia</title><desc id="desc">Kamalia — tradition woven in thread</desc>
+  <rect width="520" height="120" rx="18" fill="#0b201b"/>
+  <rect x="14" y="14" width="92" height="92" rx="12" fill="#f4ead8"/>
+  <path d="M35 82V38h8l18 27 18-27h8v44h-9V54L62 81 46 54v28z" fill="#0b201b"/>
+  <path d="M94 29c-11 2-18 8-21 18" fill="none" stroke="#b7924b" stroke-width="3" stroke-linecap="round"/>
+  <text x="132" y="57" fill="#f7f1e5" font-family="Georgia, serif" font-size="39" letter-spacing="9">KAMALIA</text>
+  <text x="135" y="84" fill="#c6a86a" font-family="Arial, sans-serif" font-size="12" letter-spacing="4">TRADITION WOVEN IN THREAD</text>
+</svg>
