@@ -1,7 +1,7 @@
 "use client";
 import React,{useContext,useState} from "react";
 import { Search, Heart, ShoppingBag, Menu, X, ChevronDown, MapPin, Truck, UserRound } from "lucide-react";
-import { AppContext } from "../components/store/AppProvider";
+import { AppContext } from "@/components/store/AppProvider";
 
 export default function Navbar(){
   const {activeTab,setActiveTab,cart,wishlist,setIsCartOpen,setIsWishlistOpen,searchQuery,setSearchQuery}=useContext(AppContext);
